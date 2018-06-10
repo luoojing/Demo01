@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloConroller {
 	@RequestMapping("/")
     public String hello(){
-        return "Welcome to start SpringBoot123123!";
+        return "Welcome to start SpringBoot123123asd!";
     }
 }
